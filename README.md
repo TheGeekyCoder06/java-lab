@@ -31,3 +31,18 @@
 # Program 11 : Bank
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+
+# Program 12 : Shape
+![alt text](image-12.png)
+
+# Program 13 : String Methods
+![alt text](image-13.png)
+
+# Program 14 : String Builder Methods
+![alt text](image-14.png)
+
+# Program 15 : Exception Handling
+![alt text](image-15.png)
+
+# Program 16 : Inheritance
+![alt text](image-16.png)
